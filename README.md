@@ -60,21 +60,6 @@ Currently, my main focus is **Machine Learning**.
 `Git` `GitHub` `Jupyter Notebook`
 
 
-
----
-
-## 🚀 Projects
-
-> Building my first projects and experiments.
-
-| Project             | Description    | Status      |
-| ------------------- | -------------- | ----------- |
-| 🔜 First ML Project | Coming soon... | 🟡 Learning |
-| 🔜 Data Analysis    | Coming soon... | ⚪ Planned   |
-| 🔜 ML Experiments   | Coming soon... | ⚪ Planned   |
-
-More projects will be added as I learn and build.
-
 ---
 
 ## 📚 Currently Learning
@@ -87,18 +72,6 @@ More projects will be added as I learn and build.
 * 📐 Mathematics & Statistics for ML
 * 🤖 Machine Learning fundamentals
 
----
-
-## 🎯 2026 Goals
-
-* [ ] Strengthen Python fundamentals
-* [ ] Become comfortable with NumPy & Pandas
-* [ ] Improve SQL
-* [ ] Learn statistics for Machine Learning
-* [ ] Learn the fundamentals of Machine Learning
-* [ ] Build my first ML projects
-* [ ] Learn how to properly document projects
-* [ ] Start exploring Deep Learning
 
 ---
 
