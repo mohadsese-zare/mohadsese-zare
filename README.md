@@ -59,44 +59,7 @@ Currently, my main focus is **Machine Learning**.
 
 `Git` `GitHub` `Jupyter Notebook`
 
----
 
-## 🗺️ My Learning Roadmap
-
-```text
-                         CURRENT
-                            ↓
-                    ┌───────────────┐
-                    │    Python     │
-                    └───────┬───────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   NumPy & Pandas    │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Data Analysis &     │
-                 │ Visualization       │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Statistics &        │
-                 │ Mathematics         │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │  Machine Learning   │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   Deep Learning     │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Data Science /      │
-                 │ ML Engineering      │
-                 └─────────────────────┘
-```
 
 ---
 
