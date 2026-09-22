@@ -1,88 +1,162 @@
-# Hi, I'm Mohadsese 👋
+<div align="center">
 
-### Aspiring Machine Learning Engineer
+# 👋 Hi, I'm Mohadsese
 
-I'm currently learning **Machine Learning** and building my foundation in Python, data analysis, and the tools used in the ML workflow.
+### `Aspiring Machine Learning Engineer`
 
-I'm at the beginning of my journey, and I'm documenting what I learn and build along the way.
+**Python • Data Analysis • SQL • Machine Learning**
 
----
+*Learning. Building. Improving. One step at a time.*
 
-## 🧠 Currently Learning
-
-* Python for Data Science
-* NumPy & Pandas
-* Data Visualization
-* SQL
-* Statistics & Mathematics for Machine Learning
-* Machine Learning with Scikit-learn
+</div>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧠 About Me
 
-**Languages**
+I'm currently on my journey into **Machine Learning**, building a strong foundation in Python, data analysis, and the fundamentals behind machine learning.
 
-* Python
-* SQL
+I'm still at the beginning of the road — and that's exactly what I want this profile to show.
 
-**Data & Visualization**
-
-* NumPy
-* Pandas
-* Matplotlib
-
-**Machine Learning**
-
-* Scikit-learn
-
-**Tools**
-
-* Git
-* GitHub
-* Jupyter Notebook
+Here, I'll document what I learn, build practical projects, and gradually move from **Python → Machine Learning → Deep Learning → Data Science**.
 
 ---
 
-## 🎯 My Roadmap
+## ⚡ What I'm Working On
 
 ```text
-Python
-   ↓
-NumPy & Pandas
-   ↓
-Data Analysis & Visualization
-   ↓
-Statistics & Mathematics
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Data Science / ML Engineering
+🐍 Python
+📊 Data Analysis
+🗄️ SQL
+📈 Data Visualization
+🤖 Machine Learning
+📚 Mathematics & Statistics
 ```
 
-Currently focused on **Machine Learning**.
-Deep Learning and Data Science are the next stages of my learning journey.
+Currently, my main focus is **Machine Learning**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+
+`Python` `SQL`
+
+### Data Analysis
+
+`NumPy` `Pandas`
+
+### Visualization
+
+`Matplotlib`
+
+### Machine Learning
+
+`Scikit-learn`
+
+### Tools
+
+`Git` `GitHub` `Jupyter Notebook`
+
+---
+
+## 🗺️ My Learning Roadmap
+
+```text
+                         CURRENT
+                            ↓
+                    ┌───────────────┐
+                    │    Python     │
+                    └───────┬───────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │   NumPy & Pandas    │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ Data Analysis &     │
+                 │ Visualization       │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ Statistics &        │
+                 │ Mathematics         │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │  Machine Learning   │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │   Deep Learning     │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ Data Science /      │
+                 │ ML Engineering      │
+                 └─────────────────────┘
+```
 
 ---
 
 ## 🚀 Projects
 
-I'm currently working on building my first Machine Learning projects.
+> Building my first projects and experiments.
+
+| Project             | Description    | Status      |
+| ------------------- | -------------- | ----------- |
+| 🔜 First ML Project | Coming soon... | 🟡 Learning |
+| 🔜 Data Analysis    | Coming soon... | ⚪ Planned   |
+| 🔜 ML Experiments   | Coming soon... | ⚪ Planned   |
 
 More projects will be added as I learn and build.
 
 ---
 
-## 📈 Learning Philosophy
+## 📚 Currently Learning
 
-> Learn → Build → Make mistakes → Improve → Repeat
-
-I'm focused on building strong fundamentals and learning through practical projects.
+* 🐍 Python for Data Science
+* 🔢 NumPy
+* 🐼 Pandas
+* 📊 Data Visualization
+* 🗄️ SQL
+* 📐 Mathematics & Statistics for ML
+* 🤖 Machine Learning fundamentals
 
 ---
 
-## 📫 Connect With Me
+## 🎯 2026 Goals
 
-[GitHub](https://github.com/mohadsese-zare)
+* [ ] Strengthen Python fundamentals
+* [ ] Become comfortable with NumPy & Pandas
+* [ ] Improve SQL
+* [ ] Learn statistics for Machine Learning
+* [ ] Learn the fundamentals of Machine Learning
+* [ ] Build my first ML projects
+* [ ] Learn how to properly document projects
+* [ ] Start exploring Deep Learning
+
+---
+
+## 📈 The Journey
+
+I don't want this profile to show only the final results.
+
+I want it to show the **process**.
+
+Every project, experiment, mistake, and improvement is part of the journey.
+
+```text
+Learn → Build → Break → Understand → Improve → Repeat
+```
+
+---
+
+<div align="center">
+
+### 🚀 Currently learning Machine Learning
+
+**Thanks for stopping by!**
+
+</div>
